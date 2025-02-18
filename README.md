@@ -47,7 +47,7 @@
 
 <div>
 
-![snake gif](https://raw.githubusercontent.com/julianamaula/snk/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/julianamaula/julianamaula/blob/output/github-contribution-grid-snake.svg)
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
