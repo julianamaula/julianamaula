@@ -69,13 +69,13 @@
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
 
-<p aligin="right"><br>Visitors Count</br></p>
 
-<p aligin="right"><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjulianamaula&s=35&c=bb00ff&bg=00000000&no=1&ff=alien&tb=&ta=++++Visitors+%21+++" alt="visits"></p>
+
+<img align="right" height="40em" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjulianamaula&s=35&c=bb00ff&bg=00000000&no=1&ff=alien&tb=&ta=++++Visitors+%21+++" alt="visits"></p>
 <br>
 </div>
 
-![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
+
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/julianamaula/count.svg" /></p>
 
