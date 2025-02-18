@@ -12,13 +12,18 @@
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
-<div align="center">
-    <a href="https://github.com/julianamaula">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=julianamaula&theme=midnight-purple&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
-</div>
-        <br>
+
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+
+![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=julianamaula&theme=midnight-purple&hide_border=false"/>
+
+![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact"/>
+
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 <div align="left">
