@@ -42,6 +42,13 @@
     <br>
     <br>
     <br>
+    
+![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
+<div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=julianamaula&bg_color=000000&color=00ffff&line=7b0bf4&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
@@ -51,6 +58,15 @@
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
+<div align="center">
+
+[![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/julianamaula?chart=3dbar&gap=0.6&scale=2&light=10&flatten=1&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=50&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=green&colors=1C1C1C,00FF00,7113ce,870fff&dark=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+<br>
+<br>
+
+![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/julianamaula/count.svg" /></p>
 
