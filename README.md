@@ -38,7 +38,6 @@
 
 <img align="left" height="90" width="80" src="https://github.com/user-attachments/assets/c93bf39a-cf19-4e51-8a2d-ccb356a3fc63">
 
-
 <img align="left" height="90" width="80" src="https://github.com/user-attachments/assets/83629d35-aea9-4911-8147-45b58b3a7568">
 
 <img align="left" height="90" width="80" src="https://github.com/user-attachments/assets/367e8a0f-5954-49b5-8459-c7b9ddf85ae7">
@@ -59,7 +58,12 @@
 
 <div>
 
+
+<div align="center">
+    
 ![snake gif](https://github.com/julianamaula/julianamaula/blob/output/github-contribution-grid-snake.svg)
+
+</div>
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
