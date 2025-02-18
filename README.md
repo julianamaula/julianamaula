@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=WindSong&weight=500&size=35&pause=5000&color=22F757&width=500&height=60&lines=Hello%2C+my+name+is+Juliana)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=Hello%2C+my+name+is+Juliana)](https://git.io/typing-svg)
 </div>
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
@@ -28,7 +28,7 @@
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 <div align="left">
 
-### Main skills: 
+###  Main skills: 
 
 <img align="left" height="85" width="80" src="https://github.com/user-attachments/assets/dc2bffd5-e43d-4e87-9a35-2b2986b4a155">
 
