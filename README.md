@@ -10,18 +10,28 @@
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
-<div align="center">
+<div align="left">
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=STATS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=CONTRIBUTION)](https://git.io/typing-svg)
 </div>
 
 <div align="center">
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=julianamaula&theme=midnight-purple&hide_border=false"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+</div> 
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
-<div align="center">
+<div align="left">
+    
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=STATS)](https://git.io/typing-svg)
+</div>
+<div align="center">     
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=julianamaula&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true"/>
+</div>
+
+![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
+
+<div align="left">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=LANGUAGES)](https://git.io/typing-svg)
 
@@ -33,7 +43,7 @@
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
-<div align="center">
+<div align="left">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=MAIN++++++SKILLS)](https://git.io/typing-svg)
 </div>
@@ -51,7 +61,8 @@
     <br>
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
-<div>
+
+<div align="left">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=CONTRIBUITION++++++GRAPH)](https://git.io/typing-svg)
     
@@ -62,7 +73,7 @@
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
 <div>
-<div align="center">
+<div align="left">
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=ACTIVITY++++++CHART)](https://git.io/typing-svg)
 </div>  
@@ -75,7 +86,10 @@
 
 ![Image](https://github.com/user-attachments/assets/9e24e292-0551-462a-8f2b-edce97707080)
 
+<div align="left">
+       
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script+Swash+Caps&weight=700&size=39&pause=5000&color=7919FF&width=500&height=60&lines=3D++++++ACTIVITY++++++CHART)](https://git.io/typing-svg)
+</div>
 
 <div align="center">
 
@@ -93,9 +107,15 @@
 <img align="right" height="40em" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fjulianamaula&s=35&c=bb00ff&bg=00000000&no=1&ff=alien&tb=&ta=++++Visitors+%21+++" alt="visits"></p>
 <br>
 </div>
+<br>
+<br>
 
+<div align="center">
 <a href = "mailto:contato@julianademaula@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/juliana-de-maula" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/julianamaula/count.svg" /></p>
+</div>
+<br>
+<br>
+<p align="center">   
+       <img alingn="center" src="https://profile-counter.glitch.me/julianamaula/count.svg" /></p>
 
